@@ -13,3 +13,5 @@ To run the frontend service you need to run (within another terminal) `npm run b
 After that, you will be able to check this little projetct out :)
 
 There is some print screens of the frontend (the design isn't mine)
+
+![HomePage](https://github.com/FredDsR/ReactJobs/blob/main/preview/home-page.png)
