@@ -16,8 +16,6 @@ There is some print screens of the frontend (the design isn't mine)
 
 ## Preview
 
----
-
 ### Home Page
 
 ![HomePage](https://github.com/FredDsR/ReactJobs/blob/main/preview/home-page.png)
